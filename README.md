@@ -21,7 +21,7 @@ simplified scheme
    sudo make install
    ```
    
- 3) How to use it?
+3) How to use it?
    
    after installing scheme, you can do with it like any other interpreter:
    
@@ -37,6 +37,6 @@ simplified scheme
    $ scheme --script ./myjob.ss
    ```
    
-3) What to do next?
+4) What to do next?
    - simplifying c and s code in src dir
    - build a static web server using this scheme
