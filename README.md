@@ -3,7 +3,7 @@ simplified scheme
 
 1) What is this version of scheme?
 
-   this version is used in linux x86_64, and has least dependency on other libs for research purpose;
+   this version is used in linux x86_64 originating from chez scheme, and has least dependency on other libs for research purpose;
    and there are only two files to be bulit:
    
    ```
